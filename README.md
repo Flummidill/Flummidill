@@ -6,13 +6,13 @@
     </summary>
   </ul>
 
-  <hr/>
+  ---
 
   <a href="https://github.com/Flummidill?tab=repositories">
     <img src="https://skillicons.dev/icons?i=idea,java,cs,python,lua,robloxstudio&perline=3"/>
   </a>
 
-  <hr/>
+  ---
 
   <a href="https://github.com/Flummidill?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=flummidill">
