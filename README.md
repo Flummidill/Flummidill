@@ -8,7 +8,7 @@
 
   <hr/>
 
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Flummidill?tab=repositories">
     <img src="https://skillicons.dev/icons?i=idea,java,cs,python,lua,robloxstudio&perline=3"/>
   </a>
 
