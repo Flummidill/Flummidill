@@ -15,6 +15,6 @@
   ---
 
   <a href="https://github.com/Flummidill?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flummidill">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flummidill" alt="Contribution Strak">
   </a>
 </div>
