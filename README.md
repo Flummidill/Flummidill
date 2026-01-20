@@ -9,7 +9,7 @@
   ---
 
   <a href="https://github.com/Flummidill?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=idea,java,cs,js,lua,py&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=idea,java,cs,js,lua,py&perline=6"/>
   </a>
 
   ---
