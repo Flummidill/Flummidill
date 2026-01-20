@@ -9,8 +9,9 @@
   ---
 
   <a href="https://github.com/Flummidill?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=idea,java,visualstudio,cs,robloxstudio,lua&perline=6"/>
-    <img src="https://skillicons.dev/icons?i=vscode,js,py&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=idea,java,visualstudio,cs,robloxstudio,lua"/>
+    </br>
+    <img src="https://skillicons.dev/icons?i=vscode,js,py"/>
   </a>
 
   ---
